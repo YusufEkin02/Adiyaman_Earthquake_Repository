@@ -1,3 +1,6 @@
+https://zenodo.org/records/24461860
+
+
 # Multi-Temporal Assessment of Earthquake-Induced Land Cover Transformation and Vegetation Dynamics in Adıyaman, Türkiye (2022–2026)
 
 **Author:** Yusuf Ekin Özdemir  
